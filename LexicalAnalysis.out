@@ -1,0 +1,10 @@
+y  -> identifier
+=  -> Assign_OP
+(  -> Open_Parenthesis
+2  -> int_literal
+*  -> Mult_OP
+x  -> identifier
+)  -> Close_Parenthesis
++  -> Add_OP
+50.00  -> int_literal
+;  -> End_Marker
